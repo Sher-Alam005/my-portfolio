@@ -1,0 +1,21 @@
+@import url(./colors.css);
+
+/* .resume-secrion .resume-content{
+    width: 32.1rem;
+} */
+
+.post-section{
+    background-color: var(--light-blue);
+}
+.d-resume{
+background-color: var(--primary);
+}
+/* .post-main{
+width: 450px;
+} */
+.light{
+    color: var(--light);
+}
+.color-light-blue{
+    color: dodgerblue;
+}
